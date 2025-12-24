@@ -422,6 +422,7 @@ _MULTIMODAL_MODELS = {
         "Tarsier2ForConditionalGeneration",
     ),
     "UltravoxModel": ("ultravox", "UltravoxModel"),
+    "UmansCoderForConditionalGeneration": ("umans_coder", "UmansCoderForConditionalGeneration"),  # noqa: E501
     "VoxtralForConditionalGeneration": ("voxtral", "VoxtralForConditionalGeneration"),  # noqa: E501
     "VoxtralStreamingGeneration": ("voxtral_streaming", "VoxtralStreamingGeneration"),  # noqa: E501
     # [Encoder-decoder]
