@@ -334,7 +334,7 @@ huggingface-hub==0.34.3
     #   vocos
 humanize==4.11.0
     # via runai-model-streamer
-hydra-core==1.3.2
+hydra-core==1.3.4
     # via
     #   lightly
     #   lightning
