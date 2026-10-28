@@ -630,7 +630,7 @@ opencv-python-headless==4.11.0.86
     #   albucore
     #   albumentations
     #   mistral-common
-opentelemetry-api==1.35.0
+opentelemetry-api==1.45.1
     # via
     #   mlflow-skinny
     #   opentelemetry-exporter-prometheus
